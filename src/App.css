@@ -81,7 +81,7 @@ h1 {
   margin-bottom: 2vh;
 }
 
-div .menu-list:hover {
+.menu-list:hover {
   cursor: pointer;
   color: #FAD137;
 }
